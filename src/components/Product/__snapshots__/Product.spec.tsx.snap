@@ -1,0 +1,605 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Component render the product price in correct format 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "backgroundColor": "rgba(247, 243, 249, 1)",
+      "borderRadius": 8,
+      "marginBottom": 16,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.15,
+      "shadowRadius": 3,
+    }
+  }
+  testID="card-container-outer-layer"
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "rgba(247, 243, 249, 1)",
+        "borderRadius": 8,
+        "elevation": 3,
+        "flex": undefined,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 1,
+          "width": 0,
+        },
+        "shadowOpacity": 0.3,
+        "shadowRadius": 1,
+      }
+    }
+    testID="card-container"
+  >
+    <View
+      style={
+        [
+          {
+            "flexShrink": 1,
+          },
+          undefined,
+        ]
+      }
+      testID="card"
+    >
+      <View
+        borderRadiusStyles={
+          {
+            "borderRadius": 8,
+          }
+        }
+        style={
+          [
+            {
+              "paddingHorizontal": 16,
+            },
+            {
+              "paddingVertical": 16,
+            },
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            {
+              "uri": "https://example.com/image.jpg",
+            }
+          }
+          style={
+            {
+              "borderRadius": 25,
+              "height": 64,
+              "marginRight": 10,
+              "width": 64,
+            }
+          }
+          testID="image-thumbnail-container"
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginBottom": 4,
+                },
+              ]
+            }
+          >
+            Test Product
+          </Text>
+          <Text
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                {
+                  "color": "gray",
+                  "fontSize": 14,
+                },
+              ]
+            }
+          >
+            $
+            19.99
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Product Component render the product thumbnail image 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "backgroundColor": "rgba(247, 243, 249, 1)",
+      "borderRadius": 8,
+      "marginBottom": 16,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.15,
+      "shadowRadius": 3,
+    }
+  }
+  testID="card-container-outer-layer"
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "rgba(247, 243, 249, 1)",
+        "borderRadius": 8,
+        "elevation": 3,
+        "flex": undefined,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 1,
+          "width": 0,
+        },
+        "shadowOpacity": 0.3,
+        "shadowRadius": 1,
+      }
+    }
+    testID="card-container"
+  >
+    <View
+      style={
+        [
+          {
+            "flexShrink": 1,
+          },
+          undefined,
+        ]
+      }
+      testID="card"
+    >
+      <View
+        borderRadiusStyles={
+          {
+            "borderRadius": 8,
+          }
+        }
+        style={
+          [
+            {
+              "paddingHorizontal": 16,
+            },
+            {
+              "paddingVertical": 16,
+            },
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            {
+              "uri": "https://example.com/image.jpg",
+            }
+          }
+          style={
+            {
+              "borderRadius": 25,
+              "height": 64,
+              "marginRight": 10,
+              "width": 64,
+            }
+          }
+          testID="image-thumbnail-container"
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginBottom": 4,
+                },
+              ]
+            }
+          >
+            Test Product
+          </Text>
+          <Text
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                {
+                  "color": "gray",
+                  "fontSize": 14,
+                },
+              ]
+            }
+          >
+            $
+            19.99
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Product Component render the product title 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "backgroundColor": "rgba(247, 243, 249, 1)",
+      "borderRadius": 8,
+      "marginBottom": 16,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.15,
+      "shadowRadius": 3,
+    }
+  }
+  testID="card-container-outer-layer"
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "rgba(247, 243, 249, 1)",
+        "borderRadius": 8,
+        "elevation": 3,
+        "flex": undefined,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 1,
+          "width": 0,
+        },
+        "shadowOpacity": 0.3,
+        "shadowRadius": 1,
+      }
+    }
+    testID="card-container"
+  >
+    <View
+      style={
+        [
+          {
+            "flexShrink": 1,
+          },
+          undefined,
+        ]
+      }
+      testID="card"
+    >
+      <View
+        borderRadiusStyles={
+          {
+            "borderRadius": 8,
+          }
+        }
+        style={
+          [
+            {
+              "paddingHorizontal": 16,
+            },
+            {
+              "paddingVertical": 16,
+            },
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            {
+              "uri": "https://example.com/image.jpg",
+            }
+          }
+          style={
+            {
+              "borderRadius": 25,
+              "height": 64,
+              "marginRight": 10,
+              "width": 64,
+            }
+          }
+          testID="image-thumbnail-container"
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginBottom": 4,
+                },
+              ]
+            }
+          >
+            Test Product
+          </Text>
+          <Text
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                {
+                  "color": "gray",
+                  "fontSize": 14,
+                },
+              ]
+            }
+          >
+            $
+            19.99
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Product Component should apply correct styles to the components 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "backgroundColor": "rgba(247, 243, 249, 1)",
+      "borderRadius": 8,
+      "marginBottom": 16,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.15,
+      "shadowRadius": 3,
+    }
+  }
+  testID="card-container-outer-layer"
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "rgba(247, 243, 249, 1)",
+        "borderRadius": 8,
+        "elevation": 3,
+        "flex": undefined,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 1,
+          "width": 0,
+        },
+        "shadowOpacity": 0.3,
+        "shadowRadius": 1,
+      }
+    }
+    testID="card-container"
+  >
+    <View
+      style={
+        [
+          {
+            "flexShrink": 1,
+          },
+          undefined,
+        ]
+      }
+      testID="card"
+    >
+      <View
+        borderRadiusStyles={
+          {
+            "borderRadius": 8,
+          }
+        }
+        style={
+          [
+            {
+              "paddingHorizontal": 16,
+            },
+            {
+              "paddingVertical": 16,
+            },
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            {
+              "uri": "https://example.com/image.jpg",
+            }
+          }
+          style={
+            {
+              "borderRadius": 25,
+              "height": 64,
+              "marginRight": 10,
+              "width": 64,
+            }
+          }
+          testID="image-thumbnail-container"
+        />
+        <View
+          style={
+            {
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                  "marginBottom": 4,
+                },
+              ]
+            }
+          >
+            Test Product
+          </Text>
+          <Text
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                {
+                  "color": "gray",
+                  "fontSize": 14,
+                },
+              ]
+            }
+          >
+            $
+            19.99
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
