@@ -102,13 +102,13 @@ These are the application images and video of the execution on Android and IOS
 
 <img src=".github/ProductsAppModakAndroid.png?raw=true" width="300" />
 
-[This is the video link of app running on Android](https://github.com/tadeumx1/ProductsAppModak/.github/ProductsAppModakAndroidVideo.mov)
+[This is the video link of app running on Android](https://github.com/tadeumx1/ProductsAppModak/raw/main/assetsGitHub/ProductsAppModakAndroidVideo.mov)
 
 **IOS**
 
 <img src=".github/ProductsAppModakIOS.png?raw=true" width="300" />
 
-[This is the video link of app running on IOS](https://github.com/tadeumx1/ProductsAppModak/.github/ProductsAppModakIOSVideo.mp4)
+[This is the video link of app running on IOS](https://github.com/tadeumx1/ProductsAppModak/raw/main/assetsGitHub/ProductsAppModakIOSVideo.mp4)
 
 ### Made with these amazing libraries and tools
 
