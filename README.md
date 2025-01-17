@@ -108,7 +108,7 @@ These are the application images and video of the execution on Android and IOS
 
 <img src=".github/ProductsAppModakIOS.png?raw=true" width="300" />
 
-[This is the video link of app running on IOS](https://github.com/tadeumx1/ProductsAppModak/raw/main/assetsGitHub/ProductsAppModakIOSVideo.mp4)
+[This is the video link of app running on IOS](https://github.com/tadeumx1/ProductsAppModak/raw/main/assetsGitHub/ProductsAppModakIOS.mp4)
 
 ### Made with these amazing libraries and tools
 
